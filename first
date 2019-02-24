@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>One</title>
+    <link rel="stylesheet" href="3.css">
+</head>
+<body>
+    <header>
+        <span>Logo</span>
+        <ul>
+            <li><a href="#">Github</a></li>
+            <li><a href="#">Register</a></li>
+            <li><a href="#">Login</a></li>
+        </ul>
+    </header>
+    <main>
+        <div class="oh">
+            <ul>
+                <li>4</li>
+                <li>3</li>
+                <li>2</li>
+                <li>1</li>
+            </ul>
+        </div>
+        <div class="nav">
+            <ul>
+                <li>HOME</li>
+                <li>PROFILE</li>
+                <li>ABOUT</li>
+            </ul>
+        </div>
+        <div class="s1">
+            <div>This is Content 1</div>
+            <div>MaybeContent 2</div>
+            <div>Content 3</div>
+        </div>
+        <div class="s1">
+            <div>Content 4</div>
+            <div>Content 5</div>
+            <div>Content 6</div>
+            <div>Content 7</div>
+        </div>
+        <div class="s1">
+            <div>Content 8</div>
+            <div>Content 9</div>
+            <div>Content 10</div>
+        </div>
+    </main>
+    <footer>
+        <p>@ 2018 ife.baidu.com</p>
+    </footer>
+</body>
+</html>
